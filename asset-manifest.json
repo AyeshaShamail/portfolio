@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.345af808.css",
-    "main.js": "/portfolio/static/js/main.62d36d6f.js",
+    "main.js": "/portfolio/static/js/main.076308d7.js",
     "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.3b4f165d8ad8f75c7858.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/todoApp.png": "/portfolio/static/media/todoApp.b447c674c17279e66840.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.e9058c25ada917b01872.png",
     "static/media/weather.png": "/portfolio/static/media/weather.a41a48e6680397c1ad20.png",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo1.png": "/portfolio/static/media/logo1.fc7e6aa0592e46486a13.png",
@@ -14,11 +16,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.345af808.css.map": "/portfolio/static/css/main.345af808.css.map",
-    "main.62d36d6f.js.map": "/portfolio/static/js/main.62d36d6f.js.map",
+    "main.076308d7.js.map": "/portfolio/static/js/main.076308d7.js.map",
     "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.345af808.css",
-    "static/js/main.62d36d6f.js"
+    "static/js/main.076308d7.js"
   ]
 }
