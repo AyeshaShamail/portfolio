@@ -70,7 +70,7 @@ function Projects() {
               title="Shamaya Store"
               description="Created a dynamic e-commerce website using a third-party API to showcase products. Implemented grid and list views, along with filtering by brand, category, and price, and sorting options. Key features include detailed product pages, search functionality, user authentication, and an add-to-cart option. Emphasized responsive design and user experience for a seamless shopping experience."
               ghLink="https://github.com/AyeshaShamail/E-commerce"
-              demoLink="https://ayeshashamail.github.io/E-commerce/"
+              demoLink="https://shamayacart.netlify.app/"
             />
           </Col>
         </Row>
